@@ -20,7 +20,7 @@ sub_nav:
 
 ### Whether it's entertainment or business to business, we think entrepreneurs are happiest when they're making other people's lives better.
 
-Our companies receive three months of incredible mentorship and weekly workshops, 12 months of office space, free legal services, amazing perks, and the opportunity to present at our launch event at the end of each session. Our program is unique in that it's a great fit for teams that have decided to bootstrap or those looking for venture financing. For teams looking to raise capital we offer **$20,000 in seed capital** and take the group on two week long fundraising trips to New York and San Francisco.
+Our companies receive three months of incredible mentorship and weekly workshops, 12 months of office space, free legal services, amazing perks, and the opportunity to present at our launch event at the end of each session. Our program is unique in that it's a great fit for teams that have decided to bootstrap or those looking for venture financing. For teams looking to raise capital we offer **$20,000 in seed capital** and take the group on two week-long fundraising trips to New York and San Francisco.
 
 When you complete the program, join other accelerator classmates and alumni in our **free collaborative workspace.**
 
