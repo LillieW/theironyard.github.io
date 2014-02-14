@@ -35,7 +35,7 @@ sub_nav:
 
 *   Two or more people. We will occasionally take solo founders, but teams are preferred.
 *   Company should be software or a software/hardware combination. We also will consider select medical devices, biotech, and life sciences companies.
-*   Your team must co-locate at The Iron Yard for the duration of the program.  There's no obligation to stay her, but we'd sure love to have you.
+*   Your team must co-locate at The Iron Yard for the duration of the program.  There's no obligation to stay here, but we'd sure love to have you.
 
 Did we mention that our space is one block from [RJ Rockers Brewery](http://www.rjrockers.com/)?
 
@@ -52,7 +52,7 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 *   **March 16** –  Early application deadline
 *   **June 1** –  Final application deadline
 *   **July 1** – Program begins
-*   **Sep. 21-23** – Demo Day at Health 2.0 Silicon Valley Conference
+*   **Sept. 21-23** – Demo Day at Health 2.0 Silicon Valley Conference
 *   **Oct. 1** - Southeastern Demo Day
 
 * * *
